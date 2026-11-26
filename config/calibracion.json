@@ -1,0 +1,31 @@
+{
+  "A": {
+    "descripcion": "base",
+    "min_marcado": 11,
+    "max_marcado": 175,
+    "usar_min": 14,
+    "usar_max": 172
+  },
+  "B": {
+    "descripcion": "brazo inferior",
+    "min_marcado": 51,
+    "max_marcado": 175,
+    "usar_min": 54,
+    "usar_max": 172
+  },
+  "C": {
+    "descripcion": "antebrazo",
+    "min_marcado": 175,
+    "max_marcado": 5,
+    "usar_min": null,
+    "usar_max": null
+  },
+  "D": {
+    "descripcion": "pinza",
+    "min_marcado": 5,
+    "max_marcado": 101,
+    "usar_min": 8,
+    "usar_max": 98
+  },
+  "_nota": "usar_min/usar_max = marcado +/- 3 grados de margen. Angulos que se mandan a la placa, no de los topes mecanicos exactos."
+}

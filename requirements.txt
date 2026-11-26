@@ -1,0 +1,4 @@
+pyserial
+numpy==1.26.4
+opencv-contrib-python==4.11.0.86
+mediapipe==0.10.21   # funciona con Python 3.9 a 3.12, no con 3.14
